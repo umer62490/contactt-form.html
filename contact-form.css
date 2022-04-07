@@ -1,0 +1,30 @@
+.main-heading h1{
+    color:black ;
+    font-family: arial verdana sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+.container{
+    text-align: center;
+
+}
+#email{
+    margin-bottom: 50px;
+}
+#name{
+    margin-bottom: 20px;
+}
+
+#emails{
+    margin-bottom: 20px;
+}
+
+#address{
+    margin-bottom: 20px;
+}
+#number{
+    margin-bottom: 20px;
+}
